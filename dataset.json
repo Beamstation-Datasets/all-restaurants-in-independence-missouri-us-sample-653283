@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Independence, Missouri with a population of over 123k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Independence, Missouri, US",
+  "export_job_id": "f65ee07c-4029-4576-a0dd-7159f3c6a203",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 653283,
+  "location_name": "Independence",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-independence-missouri-us-sample-653283",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/653283/beamstation_653283_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_pct": 9.7,
+  "sample_records": 29,
+  "sample_sha256": "d35935203c6fea1bbd1ccc9ed2782e1dca5aff1c069cba64692b963890c4a9fe",
+  "sample_size_bytes": 123828,
+  "total_records": 299,
+  "updated_at": "2026-04-09T13:48:36.389973+00:00"
+}
