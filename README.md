@@ -1,6 +1,6 @@
 # All Restaurants in Independence, Missouri, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `653283` |
 | Location | Independence |
 | Category | Restaurants |
-| Full dataset size | 287 records |
-| Free sample size | 28 records (9.76%) |
-| Last export | 2026-04-16T14:14:01.654196+00:00 |
+| Full dataset size | 241 records |
+| Free sample size | 24 records (9.96%) |
+| Last export | 2026-04-23T12:51:39.518337+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-independence-missouri-us-sample-653283/releases/download/sample-latest/beamstation_653283_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
