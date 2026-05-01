@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4e889910-03d2-414c-befc-9edc29171269",
+  "export_job_id": "e25ae66e-c29b-4010-b3a3-4005dc06354f",
   "id_short": 653283,
-  "published_at": "2026-04-23T19:33:18Z",
+  "published_at": "2026-05-01T07:08:10Z",
   "repo_name": "all-restaurants-in-independence-missouri-us-sample-653283",
   "sample_asset_name": "beamstation_653283_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/653283/beamstation_653283_restaurants-us-mo_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "3ab770cd550083a4434992a4dec93cfe75e3cc60bc36dba7a68014043ef0b929",
-  "sample_size_bytes": 107221,
-  "total_records": 241
+  "sample_records": 30,
+  "sample_sha256": "3b45c77f9c183175bcf3b13f76dd5c33b9753ab3a9bed4eb04d48b0d5f10da1e",
+  "sample_size_bytes": 116339,
+  "total_records": 305
 }
